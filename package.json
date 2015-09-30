@@ -1,7 +1,7 @@
 {
 	"name": "bind-handler",
 	"version": "0.1.0",
-	"description": "My module",
+	"description": "Bind event handlers to this less verbose",
   "main": "lib/index.js",
 	"license": "MIT",
 	"repository": "chentsulin/bind-handler",

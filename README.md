@@ -5,7 +5,7 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Dependency Status][david_img]][david_site]
 
-> bind event handler to this less verbose
+> Bind event handlers to this less verbose
 
 
 ## Install
@@ -26,12 +26,12 @@ class A {
   }
 
   handleClick() {
-	// handler-prefix method will be auto bound to this
+	// handler-prefix methods will be auto bound to this
 	// Just like this.handleClick = this.handleClick.bind(this)
   }
 
   otherClick() {
-	// other method will not be auto bound to this
+	// other methods will not be auto bound to this
   }
 }
 //=>
